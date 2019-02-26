@@ -43,7 +43,7 @@ const venues = [
         "name": "Fabrique",
         "food": ["Bread", "Cheese", "Deli"],
         "drinks": ["Soft Drinks", "Tea", "Coffee"]
-    },
+    }
 ]
 
 export default venues;
