@@ -26,5 +26,5 @@ $ npm run build
 
 **screenshot:**
 
-![Alt text](/venues.png?raw=true "Venue Food Selector")
+![Alt text](/venue.png?raw=true "Venue Food Selector")
 
