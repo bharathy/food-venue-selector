@@ -1,0 +1,31 @@
+@import "./variables";
+@import "./base";
+
+.users__btn {
+   width: 80px;
+    background: $light-blue;
+    border: 1px solid $deep-blue;
+    border-radius: 6px;
+    height: 21px;
+    margin: 10px 0 0 20px;
+    color: $turq;
+    font-weight: bold;
+}
+
+/*  functional_css */
+.bdr-btm {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: $grey;
+}
+.bdr-rt { border-right: 1px solid $grey; }
+.p5-0 { padding: 5px 0; }
+.flex { display: flex; }
+.flex-row { flex-direction: row; }
+.flex-auto { flex: auto; }
+.ft-14 {font-size: 14px;}
+.ft-22 {font-size: 22px;}
+.turq {color: $turq}
+.center { text-align:center }
+.p10{ padding:10px; }
+.p-20-0 {padding: 20px 0;}
