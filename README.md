@@ -1,6 +1,9 @@
 # Food Venue Selector App
 
  Food Venue Selector App Using React + Redux + Webpack + React Router
+ 
+ Select the members and it will suggest venue to go where all team members will happy with food and drinks. 
+ Food and Venue details are there under data folder.
 
 Libraries:
 - React + Redux + Webpack + React Router
